@@ -1,0 +1,87 @@
+:root {
+    --color-background: #ffffff;
+    --color-text: #181818;
+    --color-link_underline: #e7bb4d;
+  
+    --sidebar-width: 200px;
+  }
+    
+  @font-face {
+    font-family: "Benton Sans Bold";
+    src: url("https://d1v5qbuvucewy1.cloudfront.net/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-2.eot?");
+    src: url("https://d1v5qbuvucewy1.cloudfront.net/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-2.eot?") format("embedded-opentype"), url("https://d1v5qbuvucewy1.cloudfront.net/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-3.woff") format("woff"), url("https://d1v5qbuvucewy1.cloudfront.net/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-1.ttf") format("truetype"), url("https://d1v5qbuvucewy1.cloudfront.net/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-4.svg#web") format("svg");
+  }
+  
+  body {
+    min-height: 100vh;
+    color: var(--color-text);
+    background: var(--color-background);
+    font-family: sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  li {
+    margin-left: 20px;
+    font-family: monospace;
+  }
+  
+  section {
+    position:block;
+    width: auto;
+    max-width: 800px;
+    height: auto;
+    margin-left: 28%;
+    margin-right: 10%;
+    margin-top: 50px;
+    line-height: 1.4;
+    display: inline-block;
+  }
+
+  section.centered {
+    display: flex;
+    align-items: center;
+  }
+  
+  .sidebar {
+    height: 100%;
+    padding: 50px 10px 20px 50px;
+    width: 25%;
+    position: fixed;
+    z-index: 1;
+    top: 20;
+    left: 0;
+    overflow-x: hidden;
+  }
+
+  .sidebar p {
+    font-size: 12px;
+  }
+
+  .sidebar a {
+    color: var(--color-text);
+    text-decoration: underline;
+    text-decoration-color: var(--color-link_underline);
+  }
+  
+  .sidebar a:hover {
+      font-style: italic;
+    }
+    
+  .logo {
+    font-family: "Benton Sans Bold", sans-serif;
+    line-height: 0.9;
+    font-size: 40px;
+  }
+  
+  .headshot {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  .headshot img {
+    max-height: 400px;
+    max-width: 400px;
+  }
+  
