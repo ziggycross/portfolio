@@ -2,9 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ziggy Cross</title>
-    <link>http://ziggycross.dev/tags/</link>
+    <link>https://ziggycross.dev/tags/</link>
     <description>Recent content in Tags on Ziggy Cross</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://ziggycross.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ziggycross.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>html-css</title>
+      <link>https://ziggycross.dev/tags/html-css/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziggycross.dev/tags/html-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openai</title>
+      <link>https://ziggycross.dev/tags/openai/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziggycross.dev/tags/openai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://ziggycross.dev/tags/python/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziggycross.dev/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>huggingface</title>
+      <link>https://ziggycross.dev/tags/huggingface/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziggycross.dev/tags/huggingface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>numpy</title>
+      <link>https://ziggycross.dev/tags/numpy/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziggycross.dev/tags/numpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandas</title>
+      <link>https://ziggycross.dev/tags/pandas/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziggycross.dev/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>streamlit</title>
+      <link>https://ziggycross.dev/tags/streamlit/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziggycross.dev/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

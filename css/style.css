@@ -1,9 +1,13 @@
 :root {
     --color-background: #ffffff;
     --color-text: #181818;
-    --color-link_underline: #e7bb4d;
+    --color-button-background: #dadada;
+    --color-button-text: #5b5b5b;
+    --color-accent: #e7bb4d;
   
     --sidebar-width: 200px;
+    
+    --blog-post-width: 600px;
   }
     
   @font-face {
@@ -28,6 +32,11 @@
     margin-left: 1em;
     font-family: monospace;
     font-size: 10pt;
+  }
+
+  a {
+    color: var(--color-text);
+    text-decoration-color: var(--color-accent);
   }
   
   section {
@@ -62,7 +71,7 @@
   .sidebar p a {
     color: var(--color-text);
     text-decoration: underline;
-    text-decoration-color: var(--color-link_underline);
+    text-decoration-color: var(--color-accent);
   }
   
   .sidebar p a:hover {
@@ -92,6 +101,10 @@
     margin-right: 10%;
     margin-top: 50px;
   }
+
+  .content .blog-post {
+    max-width: var(--blog-post-width);
+  }
   
   .headshot {
     float: left;
@@ -118,6 +131,100 @@
     padding-right: 2em;
   }
 
+  .list-item a {
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .list-item img:hover {
+    filter: drop-shadow(2px 2px 6px #90909080);
+    transition-duration: 250ms;
+    transition-property: filter;
+  }
+
+  .list-item .title {
+    font-size: 20pt;
+    line-height: 10%;
+    color: var(--color-text);
+  }
+
+  .list-item .description {
+    color: var(--color-text);
+    text-decoration: none;
+    font-style: italic;
+  }
+
+  .wip {
+    font-size: small;
+    color: var(--color-button-text);
+  }
+
+  .award {
+    font-size: small;
+  }
+
+  .award a {
+    text-decoration: none;
+  }
+
+  .tag {
+    font-size: small;
+    padding: 2px 5px;
+    color: var(--color-button-text)!important;
+    background-color: var(--color-button-background);
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .tag:hover {
+    background-color: var(--color-accent);
+    transition-duration: 250ms;
+    transition-property: background-color;
+  }
+
+  .contributors {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    list-style: none;
+    row-gap: 1em;
+  }
+
+  .contributor {
+    font-size: small;
+    padding: 4px 1.2em;
+    color: var(--color-button-text);
+    text-decoration-color: var(--color-accent);
+  }
+
+  #navigation {
+    display: flex;
+    margin-bottom: 0;
+  }
+  
+  #navigation a {
+    text-decoration: none;
+  }
+  
+  #navigation .nav-button {
+    color: var(--color-button-text);
+  }
+  
+  #navigation .nav-button p {
+    margin-top: 0.6em;
+    padding-right: 1em;
+    font-size: small;
+    font-style: italic;
+  }
+
+  #footer {
+    font-size: small;
+  }
+  
+  #footer a {
+    text-decoration: none;
+  }
+
   @media screen and (max-width: 800px) {
     .sidebar {
       padding: 0;
@@ -125,6 +232,7 @@
       width: 40%;
       position: absolute;
     }
+    
     .content {
       margin-left: 18%;
     }

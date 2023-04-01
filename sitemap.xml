@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ziggycross.dev/categories/</loc>
+    <loc>https://ziggycross.dev/projects/brainy/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ziggycross.dev/tags/</loc>
+    <loc>https://ziggycross.dev/tags/html-css/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://ziggycross.dev/</loc>
+    <loc>https://ziggycross.dev/tags/openai/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/projects/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/tags/python/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/tags/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/projects/2anonymity/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/tags/huggingface/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/tags/numpy/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/tags/pandas/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/tags/streamlit/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url>
 </urlset>
