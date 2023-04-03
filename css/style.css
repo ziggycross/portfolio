@@ -100,6 +100,7 @@
     margin-left: 25%;
     margin-right: 10%;
     margin-top: 50px;
+    max-width: 800px;
   }
 
   .content .blog-post {
@@ -182,7 +183,7 @@
     transition-property: background-color;
   }
 
-  .contributors {
+  .horizontal-flex {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
@@ -190,7 +191,7 @@
     row-gap: 1em;
   }
 
-  .contributor {
+  .horizontal-item {
     font-size: small;
     padding: 4px 1.2em;
     color: var(--color-button-text);
@@ -234,7 +235,9 @@
     }
     
     .content {
-      margin-left: 18%;
+      margin-left: 10%;
+      width: 85%;
+      object-fit: contain;
     }
     
     .centered {
