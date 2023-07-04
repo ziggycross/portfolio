@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ziggycross.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>docker</title>
+      <link>https://ziggycross.dev/tags/docker/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziggycross.dev/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>html-css</title>
       <link>https://ziggycross.dev/tags/html-css/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
@@ -31,15 +40,6 @@
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ziggycross.dev/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>huggingface</title>
-      <link>https://ziggycross.dev/tags/huggingface/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ziggycross.dev/tags/huggingface/</guid>
       <description></description>
     </item>
     

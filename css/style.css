@@ -27,13 +27,6 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
-  
-  li {
-    margin-left: 1em;
-    font-family: monospace;
-    font-size: 10pt;
-    letter-spacing: -0.02em;
-  }
 
   a {
     color: var(--color-text);
@@ -62,6 +55,13 @@
   .about section {
     margin-bottom: 2em;
     min-width: 100%;
+  }
+
+  .about li {
+    margin-left: 1em;
+    font-family: monospace;
+    font-size: 10pt;
+    letter-spacing: -0.02em;
   }
   
   .about h1 {
