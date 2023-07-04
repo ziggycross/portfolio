@@ -4,6 +4,7 @@
     --color-button-background: #f0f0f0;
     --color-button-text: #5b5b5b;
     --color-accent: #e7bb4d;
+    --color-accent-light: #e7bb4d30;
   
     --sidebar-width: 200px;
     
@@ -231,6 +232,17 @@
 
   .project-li .project-tag {
     font-size: small;
+  }
+
+  .project-li .year {
+    font-size: small;
+    font-weight: 100;
+    font-family: monospace;
+    letter-spacing: -0.1em;
+    padding: 2px 5px;
+    color: var(--color-button-text);
+    background-color: var(--color-accent-light);
+    border-radius: 5px;
   }
 
   .award {
