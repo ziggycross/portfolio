@@ -299,7 +299,7 @@
   }
 
   .the-line {
-    height: 60%;
+    height: 50%;
     margin: 0 0.4em;
     border-bottom:1px solid var(--color-button-background);
   }
@@ -344,14 +344,34 @@
   #footer {
     font-size: small;
     line-height: 1.5em;
+    margin-top: 0;
   }
   
   #footer a {
     text-decoration: none;
   }
+  
+  #footer p {
+    margin-top: 0;
+  }
+
+  .footer-flex {
+    display: flex;
+    flex-wrap: row;
+  }
+  
+  .footer-expander {
+      flex: 1;
+  }
+
+  @media screen and (max-width: 450px) {
+    .footer-flex {
+      flex-wrap: wrap;
+      padding-bottom: 2em;
+    }
+  }
 
   @media screen and (max-width: 800px) {
-    
     .sidebar {
       margin-top: 1em !important;
       padding: 0;
