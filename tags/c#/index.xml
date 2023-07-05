@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>c# on Ziggy Cross</title>
+    <link>https://ziggycross.dev/tags/c#/</link>
+    <description>Recent content in c# on Ziggy Cross</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ziggycross.dev/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marshmallow Skirmish</title>
+      <link>https://ziggycross.dev/projects/marshmallow/</link>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://ziggycross.dev/projects/marshmallow/</guid>
+      <description>Marshmallow Skirmish was a charming and family-friendly first-person shooter game I developed in 2015. Along with my team, I took charge of Unity development and also handled designing and modeling the game environment. Collaborating with my classmates Austin Rule, who handled the concept art, and Brodie Anderson, who was responsible for the player and weapon models, we created an engaging game that captured the attention of both attendees and judges at the Young ICT Explorers competition.</description>
+    </item>
+    
+  </channel>
+</rss>
