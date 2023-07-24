@@ -61,7 +61,7 @@
     <a href="/projects/brainy/">
     
     
-    <img src="/featured/brainy_hu97ea7d6defab2729d277ec302957d5f3_99438_1200x0_resize_q95_box.jpg", width="600px">
+    <img class="magic-hover" src="/featured/brainy_hu97ea7d6defab2729d277ec302957d5f3_99438_1200x0_resize_q95_box.jpg", width="600px">
     
     <h1>Brainy
         
@@ -98,7 +98,7 @@
     <a href="/projects/marshmallow/">
     
     
-    <img src="/featured/marshmallow_hu7fba9da1679ce4a56c592454604cb9c1_437112_1200x0_resize_q95_box.jpg", width="600px">
+    <img class="magic-hover" src="/featured/marshmallow_hu7fba9da1679ce4a56c592454604cb9c1_437112_1200x0_resize_q95_box.jpg", width="600px">
     
     <h1>Marshmallow Skirmish
          <span title="Award-winning" class="project-tag">🏆</span>
@@ -132,7 +132,7 @@
     <a href="/projects/2anonymity/">
     
     
-    <img src="/featured/2anonymity_hucf321d3269346d1824a2a9a8ab0499ce_454191_1200x0_resize_q95_box.jpg", width="600px">
+    <img class="magic-hover" src="/featured/2anonymity_hucf321d3269346d1824a2a9a8ab0499ce_454191_1200x0_resize_q95_box.jpg", width="600px">
     
     <h1>2anonymity
          <span title="Award-winning" class="project-tag">🏆</span>
@@ -170,7 +170,6 @@
 <div class="footer-flex">
     <p id="footer">
         Designed with ❤️ by <a href="https://github.com/ziggycross">Ziggy Cross</a> using <a href="https://gohugo.io">Hugo</a>.<br>
-        Pride month 🏳️‍🌈 cursor by <a href="https://tholman.com">Tim Holman</a>.
     </p>
     <div class="footer-expander"></div>
     <span class="socials">
@@ -209,8 +208,12 @@
     
     <script type="module">
       import { rainbowCursor } from "https://unpkg.com/cursor-effects@latest/dist/esm.js";
-      new rainbowCursor();
+      let cursor = 0;
+      const KONAMI_CODE = [38, 38, 40, 40, 37, 39, 37, 39, 66, 65];
+      document.addEventListener('keydown', (e) => {
+        cursor = (e.keyCode == KONAMI_CODE[cursor]) ? cursor + 1 : 0;
+        if (cursor == KONAMI_CODE.length) new rainbowCursor();
+      });
     </script>
-
   </body>
 </html>
