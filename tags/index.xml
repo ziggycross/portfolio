@@ -4,98 +4,86 @@
     <title>Tags on Ziggy Cross</title>
     <link>https://ziggycross.dev/tags/</link>
     <description>Recent content in Tags on Ziggy Cross</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ziggycross.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ziggycross.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>docker</title>
-      <link>https://ziggycross.dev/tags/docker/</link>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ziggycross.dev/tags/docker/</guid>
+      <title>Langchain</title>
+      <link>https://ziggycross.dev/tags/langchain/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ziggycross.dev/tags/langchain/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>html-css</title>
-      <link>https://ziggycross.dev/tags/html-css/</link>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ziggycross.dev/tags/html-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>openai</title>
-      <link>https://ziggycross.dev/tags/openai/</link>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ziggycross.dev/tags/openai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
+      <title>Python</title>
       <link>https://ziggycross.dev/tags/python/</link>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://ziggycross.dev/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>numpy</title>
-      <link>https://ziggycross.dev/tags/numpy/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ziggycross.dev/tags/numpy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pandas</title>
-      <link>https://ziggycross.dev/tags/pandas/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ziggycross.dev/tags/pandas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>streamlit</title>
+      <title>Streamlit</title>
       <link>https://ziggycross.dev/tags/streamlit/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://ziggycross.dev/tags/streamlit/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>blender</title>
+      <title>Docker</title>
+      <link>https://ziggycross.dev/tags/docker/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ziggycross.dev/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html-Css</title>
+      <link>https://ziggycross.dev/tags/html-css/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ziggycross.dev/tags/html-css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Openai</title>
+      <link>https://ziggycross.dev/tags/openai/</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ziggycross.dev/tags/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Numpy</title>
+      <link>https://ziggycross.dev/tags/numpy/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ziggycross.dev/tags/numpy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pandas</title>
+      <link>https://ziggycross.dev/tags/pandas/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ziggycross.dev/tags/pandas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blender</title>
       <link>https://ziggycross.dev/tags/blender/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://ziggycross.dev/tags/blender/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>c#</title>
-      <link>https://ziggycross.dev/tags/c#/</link>
+      <title>C#</title>
+      <link>https://ziggycross.dev/tags/c%23/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://ziggycross.dev/tags/c#/</guid>
+      <guid>https://ziggycross.dev/tags/c%23/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>unity</title>
+      <title>Unity</title>
       <link>https://ziggycross.dev/tags/unity/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://ziggycross.dev/tags/unity/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Ziggy Cross</title>
-    <link>https://ziggycross.dev/tags/python/</link>
-    <description>Recent content in Python on Ziggy Cross</description>
+    <title>Langchain on Ziggy Cross</title>
+    <link>https://ziggycross.dev/tags/langchain/</link>
+    <description>Recent content in Langchain on Ziggy Cross</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ziggycross.dev/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ziggycross.dev/tags/langchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Safety via Debate</title>
       <link>https://ziggycross.dev/projects/aidebate/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://ziggycross.dev/projects/aidebate/</guid>
       <description>&lt;iframe&#xA;    width=&#34;600&#34;&#xA;    height=&#34;340&#34;&#xA;    src=&#34;https://www.youtube.com/embed/3bmo7Swxegw&#34;&#xA;    frameborder=&#34;0&#34;&#xA;    allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;&#xA;    allowfullscreen&#xA;&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ai-debate.streamlit.app&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Streamlit%20Cloud-grey?logo=Streamlit&amp;amp;logoColor=FF4B4B&amp;amp;labelColor=grey&amp;amp;color=FF4B4B&#34; alt=&#34;Streamlit Cloud&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.kaggle.com/datasets/ziggycross/ai-debate&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Kaggle-grey?logo=Kaggle&amp;amp;logoColor=white&amp;amp;labelColor=grey&amp;amp;color=20BEFF&#34; alt=&#34;Kaggle Dataset&#34;&gt;&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/ziggycross/ai-debate&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/stars/ziggycross/ai-debate&#34; alt=&#34;GitHub Repo&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Does AI debate natually regress to specific &amp;lsquo;high-yield&amp;rsquo; topics? While reading AI Safety via Debate (Irving, G., Christiano, P. and Amodei, D., 2018), I jokingly asked if all debating LLMs were inherently marxist, as it was entirely possible a sufficiently long debate would always return to class struggle, or another similar &amp;lsquo;universal&amp;rsquo; problem.&lt;/p&gt;&#xA;&lt;p&gt;Through this project I aimed to explore this idea further by creating a large dataset of AI debate transcripts and performing a semantic analysis using a Python library called BERTopic.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Brainy</title>
-      <link>https://ziggycross.dev/projects/brainy/</link>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://ziggycross.dev/projects/brainy/</guid>
-      <description>&lt;p&gt;Receiving support for mood disorders, anxiety, ADHD, and other mental health issues can be a daunting task. In BC, where 26% of residents don’t have a family doctor, access to treatment is additionally hindered by a lack of pre-existing medical records and lengthy gaps between appointments.&lt;/p&gt;&#xA;&lt;p&gt;Even after a first appointment with a general practitioner, BC patients face a median wait of 33.3 weeks before they begin receiving treatment. Given these limitations, the initial screening process - a short form, typically completed online - is a valuable tool for physicians who need to quickly identify and allocate appropriate treatments.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2anonymity</title>
-      <link>https://ziggycross.dev/projects/2anonymity/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://ziggycross.dev/projects/2anonymity/</guid>
-      <description>&lt;p&gt;Over one weekend, we developed a web tool for anonymizing data.&#xA;This was in response to one of the presented hackathon problems highlighting how anonymity is often a difficult-to-approach topic for researchers working with sensitive data.&lt;/p&gt;&#xA;&lt;p&gt;Working with my team, I developed an algorithm for finding potentially identifying values and determining the best way to handle them.&lt;/p&gt;&#xA;&lt;p&gt;Under the k-anonymity model, sensitive data can be handled in one of two ways:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ziggycross.dev/projects/aidebate/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ziggycross.dev/projects/brainy/</loc>
     <lastmod>2023-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ziggycross.dev/projects/marshmallow/</loc>
     <lastmod>2015-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/tags/langchain/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/projects/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/tags/python/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/tags/streamlit/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/tags/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ziggycross.dev/tags/docker/</loc>
     <lastmod>2023-03-24T00:00:00+00:00</lastmod>
@@ -15,18 +36,6 @@
     <lastmod>2023-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ziggycross.dev/tags/openai/</loc>
-    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ziggycross.dev/projects/</loc>
-    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ziggycross.dev/tags/python/</loc>
-    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ziggycross.dev/tags/</loc>
-    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ziggycross.dev/</loc>
     <lastmod>2023-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ziggycross.dev/projects/2anonymity/</loc>
@@ -38,16 +47,17 @@
     <loc>https://ziggycross.dev/tags/pandas/</loc>
     <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ziggycross.dev/tags/streamlit/</loc>
-    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ziggycross.dev/tags/blender/</loc>
     <lastmod>2015-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ziggycross.dev/tags/c#/</loc>
+    <loc>https://ziggycross.dev/tags/c%23/</loc>
     <lastmod>2015-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ziggycross.dev/tags/unity/</loc>
     <lastmod>2015-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ziggycross.dev/interactive-resume/test/</loc>
+  </url><url>
+    <loc>https://ziggycross.dev/interactive-resume/</loc>
   </url>
 </urlset>
